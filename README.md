@@ -29,7 +29,7 @@ Develop a fully responsive and pixel-perfect frontend based on the given Figma d
 
 ## 📤 Project Live Link
 
-👉 [Click here to view the project](https://nasir-portfolio.netlify.app/)
+👉 [Click here to view the project](https://fresh-harvest-ten.vercel.app/)
 
 ---
 
